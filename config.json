@@ -1,0 +1,18 @@
+{
+   "name": "TestCaseOrganiser",
+   "className": "CustomApp",
+   "server": "https://rally1.rallydev.com",
+   "sdk": "2.0",
+   "javascript": [
+      "App.js",
+      "Menu/AddTestCaseMenuItem.js",
+      "Menu/AddSubFolderMenuItem.js",
+      "Menu/AddToTestSetMenuItem.js",
+      "Tree/TestCaseTree.js",
+      "Tree/TestTreeItem.js",
+      "Proxy/BatchProxy.js"
+   ],
+   "css": [
+      "app.css"
+   ]
+}
